@@ -1,8 +1,19 @@
 html body {
   background-color: wheat;
 }
-
-
+.btn-hover:hover {
+  background-color: #FFA000 !important;
+  box-shadow: 0 0 10px 3px rgba(255, 235, 59, 0.8);
+}
+.button:hover {
+  box-shadow: 0 0 10px 3px rgba(94, 14, 85, 0.8);
+}
+.card {
+  background-color: whitesmoke !important;
+}
+.glow-text {
+  text-shadow: 0 0 5px #f70303, 0 0 10px #1660f5, 0 0 15px #06c96b;
+}
 
 
 
